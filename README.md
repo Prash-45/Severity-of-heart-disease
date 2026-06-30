@@ -4,6 +4,7 @@ The repository presents a comparative analysis of classical machine learning alg
 This project follows an end-to-end machine learning workflow encompassing exploratory data analysis, feature engineering, model development, hyperparameter optimization, statistical performance evaluation, explainable AI, and production-ready deployment using Flask.
 
 Research Objectives
+
 1)Investigate the behavioral differences between nominal and ordinal classification problems.
 2)Benchmark multiple machine learning algorithms under identical experimental conditions.
 3)Analyze the limitations of conventional evaluation metrics for ordered target prediction.
